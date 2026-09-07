@@ -1,6 +1,6 @@
 # AETHERIS // Modular Web Audio DSP Synthesizer & Spectral FFT Engine
 
-[![Deploy to GitHub Pages](https://github.com/hapybeing/spark-modular-audio-dsp-2026-09-07/actions/workflows/deploy.yml/badge.svg)](https://github.com/hapybeing/spark-modular-audio-dsp-2026-09-07/actions/workflows/deploy.yml)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](https://opensource.org/licenses/MIT)
 [![Tech Stack](https://img.shields.io/badge/Stack-Web%20Audio%20API%20%7C%20Tailwind%20%7C%20ES6%2B%20%7C%20HTML5%20Canvas-cyan.svg)](#architecture)
 
